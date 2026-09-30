@@ -31,7 +31,7 @@ services:
       - key: DATABASE_URL
         value: sqlite:///./is_reco.db
       - key: CORS_ALLOWED_ORIGINS
-        value: https://is-recoengine-frontend.onrender.com
+        value: https://is-recoengine-frontend-l8md.onrender.com
       - key: EMBEDDING_MODE
         value: tfidf_only   # switch to "hybrid" only if also installing requirements-embeddings.txt
       - key: RATE_LIMIT_ENABLED
@@ -47,7 +47,7 @@ services:
     staticPublishPath: dist
     envVars:
       - key: VITE_API_BASE
-        value: https://is-recoengine-api.onrender.com
+        value: https://is-recoengine-api-p7ju.onrender.com
     routes:
       # This is a client-side-routed SPA (react-router): without this
       # rewrite, a direct load or refresh of any non-root path (e.g.
