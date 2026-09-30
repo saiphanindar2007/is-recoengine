@@ -40,7 +40,6 @@ services:
   - type: web
     name: is-recoengine-frontend
     runtime: static   # Render's `env:` key for service language is deprecated in favor of `runtime:`
-    plan: free
     rootDir: frontend
     buildCommand: npm install && npm run build
     staticPublishPath: dist
