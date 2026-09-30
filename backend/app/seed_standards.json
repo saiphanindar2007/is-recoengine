@@ -1,0 +1,1066 @@
+[
+  {
+    "is_number": "IS 1652:2021",
+    "title": "Portland Pozzolana Cement \u2014 Specification",
+    "category": "Construction Materials",
+    "scope": "Specifies requirements for portland pozzolana cement used in construction of buildings, roads, bridges and general civil engineering works, including composition, physical and chemical requirements.",
+    "latest_version": "Fourth Revision, 2021",
+    "amendments": [
+      "Amendment No. 1, March 2022"
+    ],
+    "allied_standards": [
+      "IS 4031 (Parts 1-15):1996",
+      "IS 12269:2013",
+      "IS 383:2016",
+      "IS 456:2000"
+    ],
+    "normative_references": [
+      "IS 4032:1985 Chemical analysis of hydraulic cement",
+      "IS 269:2015 Ordinary Portland Cement"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory under Cement (Quality Control) Order"
+    ],
+    "keywords": [
+      "cement",
+      "concrete",
+      "construction",
+      "pozzolana",
+      "civil engineering",
+      "building material"
+    ]
+  },
+  {
+    "is_number": "IS 12269:2013",
+    "title": "Ordinary Portland Cement, 53 Grade \u2014 Specification",
+    "category": "Construction Materials",
+    "scope": "Covers requirements for 53 grade ordinary portland cement used in high-strength concrete structures.",
+    "latest_version": "First Revision, 2013",
+    "amendments": [
+      "Amendment No. 2, 2018"
+    ],
+    "allied_standards": [
+      "IS 1652:2021",
+      "IS 4031 (Parts 1-15):1996",
+      "IS 383:2016"
+    ],
+    "normative_references": [
+      "IS 4032:1985"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "cement",
+      "53 grade",
+      "concrete",
+      "construction",
+      "high strength"
+    ]
+  },
+  {
+    "is_number": "IS 383:2016",
+    "title": "Coarse and Fine Aggregate for Concrete \u2014 Specification",
+    "category": "Construction Materials",
+    "scope": "Specifies requirements for grading, quality and physical properties of aggregates for use in concrete.",
+    "latest_version": "Third Revision, 2016",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1652:2021",
+      "IS 2386 (Parts 1-8):1963",
+      "IS 456:2000"
+    ],
+    "normative_references": [
+      "IS 2386 Methods of test for aggregates for concrete"
+    ],
+    "certification": [
+      "Not mandatory for BIS certification; quality control recommended per IS 456"
+    ],
+    "keywords": [
+      "aggregate",
+      "sand",
+      "gravel",
+      "concrete",
+      "construction material"
+    ]
+  },
+  {
+    "is_number": "IS 456:2000",
+    "title": "Plain and Reinforced Concrete \u2014 Code of Practice",
+    "category": "Construction Materials",
+    "scope": "Code of practice for general structural use of plain and reinforced concrete in buildings and structures.",
+    "latest_version": "Fourth Revision, 2000",
+    "amendments": [
+      "Amendment No. 3, 2005"
+    ],
+    "allied_standards": [
+      "IS 1652:2021",
+      "IS 383:2016",
+      "IS 13920:2016"
+    ],
+    "normative_references": [
+      "IS 1786:2008 Reinforcement steel"
+    ],
+    "certification": [
+      "Not applicable - code of practice"
+    ],
+    "keywords": [
+      "concrete",
+      "reinforced",
+      "structural design",
+      "civil engineering",
+      "building code"
+    ]
+  },
+  {
+    "is_number": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement \u2014 Specification",
+    "category": "Metals & Steel",
+    "scope": "Specifies requirements for high strength deformed steel bars used for reinforcement of concrete structures.",
+    "latest_version": "Third Revision, 2008",
+    "amendments": [
+      "Amendment No. 4, 2019"
+    ],
+    "allied_standards": [
+      "IS 456:2000",
+      "IS 1608:2005",
+      "IS 2062:2011"
+    ],
+    "normative_references": [
+      "IS 1599:2012 Bend test method"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "steel bars",
+      "TMT bars",
+      "reinforcement",
+      "rebar",
+      "construction steel"
+    ]
+  },
+  {
+    "is_number": "IS 2062:2011",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel \u2014 Specification",
+    "category": "Metals & Steel",
+    "scope": "Covers requirements for hot rolled steel plates, sections, and bars for general structural purposes.",
+    "latest_version": "Seventh Revision, 2011",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1786:2008",
+      "IS 800:2007",
+      "IS 1608:2005"
+    ],
+    "normative_references": [
+      "IS 228 Methods of chemical analysis of steel"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "structural steel",
+      "steel plates",
+      "hot rolled",
+      "fabrication",
+      "girders"
+    ]
+  },
+  {
+    "is_number": "IS 800:2007",
+    "title": "General Construction in Steel \u2014 Code of Practice",
+    "category": "Metals & Steel",
+    "scope": "General code of practice for use of structural steel in general building and structural engineering.",
+    "latest_version": "Third Revision, 2007",
+    "amendments": [],
+    "allied_standards": [
+      "IS 2062:2011",
+      "IS 1786:2008",
+      "IS 816:1969"
+    ],
+    "normative_references": [
+      "IS 875 Design loads"
+    ],
+    "certification": [
+      "Not applicable - code of practice"
+    ],
+    "keywords": [
+      "steel construction",
+      "structural design",
+      "fabrication code",
+      "engineering"
+    ]
+  },
+  {
+    "is_number": "IS 732:2019",
+    "title": "Code of Practice for Electrical Wiring Installations",
+    "category": "Electrical & Electronics",
+    "scope": "Covers electrical wiring installations for voltages up to 650V for buildings, factories and public premises.",
+    "latest_version": "Fourth Revision, 2019",
+    "amendments": [],
+    "allied_standards": [
+      "IS 694:2010",
+      "IS 3043:2018",
+      "IS 8828:1996"
+    ],
+    "normative_references": [
+      "IS 732-2 Guide for electrical inspection"
+    ],
+    "certification": [
+      "Not directly certified; components used must carry BIS/ISI marks"
+    ],
+    "keywords": [
+      "electrical wiring",
+      "installation",
+      "building electrification",
+      "wiring code"
+    ]
+  },
+  {
+    "is_number": "IS 694:2010",
+    "title": "PVC Insulated Cables for Working Voltages up to and Including 1100V \u2014 Specification",
+    "category": "Electrical & Electronics",
+    "scope": "Specifies requirements for PVC insulated electric cables for low voltage wiring in buildings.",
+    "latest_version": "Third Revision, 2010",
+    "amendments": [
+      "Amendment No. 3, 2017"
+    ],
+    "allied_standards": [
+      "IS 732:2019",
+      "IS 5831:1984",
+      "IS 3961 (Part 5):1968"
+    ],
+    "normative_references": [
+      "IS 10810 Methods of test for cables"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "electrical cable",
+      "wire",
+      "PVC insulation",
+      "low voltage cable",
+      "wiring"
+    ]
+  },
+  {
+    "is_number": "IS 3043:2018",
+    "title": "Code of Practice for Earthing",
+    "category": "Electrical & Electronics",
+    "scope": "Provides guidance for earthing of electrical installations for safety of personnel and equipment.",
+    "latest_version": "Second Revision, 2018",
+    "amendments": [],
+    "allied_standards": [
+      "IS 732:2019",
+      "IS 3043",
+      "IS 13032:1991"
+    ],
+    "normative_references": [
+      "IS 5:2007 Colours for ready mixed paints (earthing colour codes)"
+    ],
+    "certification": [
+      "Not applicable - code of practice"
+    ],
+    "keywords": [
+      "earthing",
+      "grounding",
+      "electrical safety",
+      "lightning protection"
+    ]
+  },
+  {
+    "is_number": "IS 302 (Part 1):2008",
+    "title": "Safety of Household and Similar Electrical Appliances \u2014 General Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "General safety requirements applicable to household electrical appliances such as irons, mixers, heaters.",
+    "latest_version": "Third Revision, 2008 (adopted from IEC 60335-1)",
+    "amendments": [
+      "Amendment No. 5, 2021"
+    ],
+    "allied_standards": [
+      "IS 302 (Part 2 Series)",
+      "IS 13252:2010",
+      "IS 15885"
+    ],
+    "normative_references": [
+      "IEC 60335-1"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory"
+    ],
+    "keywords": [
+      "household appliance",
+      "electrical safety",
+      "consumer electronics",
+      "appliance safety"
+    ]
+  },
+  {
+    "is_number": "IS 13252 (Part 1):2010",
+    "title": "Information Technology Equipment \u2014 Safety, General Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Safety requirements for information technology equipment including personal computers, printers, and related devices.",
+    "latest_version": "Second Revision, 2010 (adopted from IEC 60950-1)",
+    "amendments": [
+      "Amendment No. 2, 2015"
+    ],
+    "allied_standards": [
+      "IS 302 (Part 1):2008",
+      "IS 616:2010"
+    ],
+    "normative_references": [
+      "IEC 60950-1"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory for laptops, PCs"
+    ],
+    "keywords": [
+      "IT equipment",
+      "computer safety",
+      "laptop",
+      "printer",
+      "electronics safety"
+    ]
+  },
+  {
+    "is_number": "IS 616:2010",
+    "title": "Audio, Video and Similar Electronic Apparatus \u2014 Safety Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Safety requirements for audio, video, and similar electronic apparatus for household and general use.",
+    "latest_version": "Fourth Revision, 2010",
+    "amendments": [],
+    "allied_standards": [
+      "IS 13252 (Part 1):2010",
+      "IS 302 (Part 1):2008"
+    ],
+    "normative_references": [
+      "IEC 60065"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory"
+    ],
+    "keywords": [
+      "audio equipment",
+      "television",
+      "video apparatus",
+      "consumer electronics"
+    ]
+  },
+  {
+    "is_number": "IS 302 (Part 2/Section 9):1994",
+    "title": "Safety of Household Electric Water Heaters \u2014 Particular Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Particular safety requirements for household electric storage-type water heaters (geysers).",
+    "latest_version": "Second Revision, 1994",
+    "amendments": [],
+    "allied_standards": [
+      "IS 302 (Part 1):2008",
+      "IS 2082:1993"
+    ],
+    "normative_references": [
+      "IEC 60335-2-21"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "water heater",
+      "geyser",
+      "electric appliance",
+      "household safety"
+    ]
+  },
+  {
+    "is_number": "IS 15885 (Part 2/Sec 13):2012",
+    "title": "Safety of Household Refrigerating Appliances \u2014 Particular Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Particular safety requirements for household refrigerators and freezers.",
+    "latest_version": "2012",
+    "amendments": [],
+    "allied_standards": [
+      "IS 302 (Part 1):2008",
+      "IS 1476 (Part 1):2000"
+    ],
+    "normative_references": [
+      "IEC 60335-2-24"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory"
+    ],
+    "keywords": [
+      "refrigerator",
+      "freezer",
+      "cooling appliance",
+      "household electronics"
+    ]
+  },
+  {
+    "is_number": "IS 1476 (Part 1):2000",
+    "title": "Refrigerating Appliances, Frost-free Household Refrigerators \u2014 Specification",
+    "category": "Electrical & Electronics",
+    "scope": "Specifies performance and energy consumption requirements for frost-free household refrigerators.",
+    "latest_version": "Second Revision, 2000",
+    "amendments": [],
+    "allied_standards": [
+      "IS 15885 (Part 2/Sec 13):2012"
+    ],
+    "normative_references": [
+      "IS 7859 Methods of test for refrigerators"
+    ],
+    "certification": [
+      "BEE Star Labelling applicable; BIS registration under CRS"
+    ],
+    "keywords": [
+      "refrigerator",
+      "frost free",
+      "energy efficiency",
+      "appliance"
+    ]
+  },
+  {
+    "is_number": "IS 302 (Part 2/Sec 3):1994",
+    "title": "Safety of Household Electric Mixers, Grinders and Blenders \u2014 Particular Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Particular safety requirements for household mixer-grinders and blenders.",
+    "latest_version": "1994",
+    "amendments": [],
+    "allied_standards": [
+      "IS 302 (Part 1):2008"
+    ],
+    "normative_references": [
+      "IEC 60335-2-14"
+    ],
+    "certification": [
+      "BIS Product Certification - Mandatory"
+    ],
+    "keywords": [
+      "mixer grinder",
+      "kitchen appliance",
+      "blender",
+      "electrical safety"
+    ]
+  },
+  {
+    "is_number": "IS 1554 (Part 1):1988",
+    "title": "PVC Insulated (Heavy Duty) Electric Cables \u2014 For Working Voltages up to 1100V",
+    "category": "Electrical & Electronics",
+    "scope": "Specifies requirements for heavy duty PVC insulated cables used in industrial power distribution.",
+    "latest_version": "Second Revision, 1988",
+    "amendments": [
+      "Amendment No. 5, 2008"
+    ],
+    "allied_standards": [
+      "IS 694:2010",
+      "IS 5831:1984"
+    ],
+    "normative_references": [
+      "IS 10810"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "heavy duty cable",
+      "power cable",
+      "industrial cable",
+      "PVC cable"
+    ]
+  },
+  {
+    "is_number": "IS 14700 (Part 4):2000",
+    "title": "Electrical Safety of Portable Motor-operated Tools",
+    "category": "Electrical & Electronics",
+    "scope": "Particular safety requirements for hand-held motor operated electric tools such as drills, grinders.",
+    "latest_version": "2000",
+    "amendments": [],
+    "allied_standards": [
+      "IS 302 (Part 1):2008"
+    ],
+    "normative_references": [
+      "IEC 60745"
+    ],
+    "certification": [
+      "BIS Product Certification - Mandatory"
+    ],
+    "keywords": [
+      "power tools",
+      "drill",
+      "grinder",
+      "hand tools",
+      "electrical tools"
+    ]
+  },
+  {
+    "is_number": "IS 2500:2000",
+    "title": "Toys \u2014 Safety Requirements",
+    "category": "Consumer Goods",
+    "scope": "Safety requirements for toys intended for use by children including mechanical, physical, flammability and chemical safety.",
+    "latest_version": "2000 (aligned with IS 9873 series)",
+    "amendments": [],
+    "allied_standards": [
+      "IS 9873 (Part 1):2019",
+      "IS 9873 (Part 3):2019"
+    ],
+    "normative_references": [
+      "IS 9873 Methods of test for safety of toys"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory for toys"
+    ],
+    "keywords": [
+      "toys",
+      "children safety",
+      "playthings",
+      "child products"
+    ]
+  },
+  {
+    "is_number": "IS 9873 (Part 1):2019",
+    "title": "Safety of Toys \u2014 Mechanical and Physical Properties",
+    "category": "Consumer Goods",
+    "scope": "Specifies mechanical and physical safety requirements for toys including small parts, sharp edges, and choking hazards.",
+    "latest_version": "Second Revision, 2019",
+    "amendments": [],
+    "allied_standards": [
+      "IS 9873 (Part 2):2017",
+      "IS 9873 (Part 3):2019"
+    ],
+    "normative_references": [
+      "ISO 8124-1"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "toy safety",
+      "mechanical properties",
+      "small parts",
+      "children"
+    ]
+  },
+  {
+    "is_number": "IS 9873 (Part 3):2019",
+    "title": "Safety of Toys \u2014 Migration of Certain Elements",
+    "category": "Consumer Goods",
+    "scope": "Specifies limits for migration of toxic elements such as lead, cadmium, mercury from toy materials.",
+    "latest_version": "Second Revision, 2019",
+    "amendments": [],
+    "allied_standards": [
+      "IS 9873 (Part 1):2019",
+      "IS 2500:2000"
+    ],
+    "normative_references": [
+      "ISO 8124-3"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "toxic elements",
+      "toy safety",
+      "chemical migration",
+      "heavy metals"
+    ]
+  },
+  {
+    "is_number": "IS 1364 (Part 1):2018",
+    "title": "Hexagon Head Bolts, Screws and Nuts \u2014 Product Grade C",
+    "category": "Mechanical & Fasteners",
+    "scope": "Specifies dimensions and tolerances for hexagon head bolts of product grade C used in general engineering.",
+    "latest_version": "Fourth Revision, 2018",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1367 (Part 1-20)",
+      "IS 3138:1966"
+    ],
+    "normative_references": [
+      "ISO 4016"
+    ],
+    "certification": [
+      "Not mandatory BIS certification; quality per IS 1367"
+    ],
+    "keywords": [
+      "bolts",
+      "nuts",
+      "screws",
+      "fasteners",
+      "hardware"
+    ]
+  },
+  {
+    "is_number": "IS 1367 (Part 6):1994",
+    "title": "Technical Supply Conditions for Threaded Steel Fasteners \u2014 Mechanical Properties",
+    "category": "Mechanical & Fasteners",
+    "scope": "Specifies mechanical property requirements and test methods for threaded steel fasteners (bolts, screws, studs).",
+    "latest_version": "Second Revision, 1994",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1364 (Part 1):2018",
+      "IS 6623:2004"
+    ],
+    "normative_references": [
+      "ISO 898-1"
+    ],
+    "certification": [
+      "Not mandatory; recommended quality assurance"
+    ],
+    "keywords": [
+      "fastener strength",
+      "bolt grade",
+      "mechanical property",
+      "threaded fastener"
+    ]
+  },
+  {
+    "is_number": "IS 10500:2012",
+    "title": "Drinking Water \u2014 Specification",
+    "category": "Water & Environment",
+    "scope": "Specifies quality requirements for drinking water for human consumption including physical, chemical and biological parameters.",
+    "latest_version": "Second Revision, 2012",
+    "amendments": [
+      "Amendment No. 3, 2015"
+    ],
+    "allied_standards": [
+      "IS 3025 (Parts 1-45)",
+      "IS 1622:1981"
+    ],
+    "normative_references": [
+      "IS 3025 Methods of sampling and testing water"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory for packaged drinking water"
+    ],
+    "keywords": [
+      "drinking water",
+      "water quality",
+      "potable water",
+      "water testing"
+    ]
+  },
+  {
+    "is_number": "IS 14543:2016",
+    "title": "Packaged Natural Mineral Water \u2014 Specification",
+    "category": "Food & Beverages",
+    "scope": "Specifies requirements for packaged natural mineral water including source, processing and packaging standards.",
+    "latest_version": "First Revision, 2016",
+    "amendments": [],
+    "allied_standards": [
+      "IS 10500:2012",
+      "IS 2800 (Part 1)"
+    ],
+    "normative_references": [
+      "FSSAI Packaging Regulations"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory; FSSAI license required"
+    ],
+    "keywords": [
+      "mineral water",
+      "packaged water",
+      "bottled water",
+      "beverage"
+    ]
+  },
+  {
+    "is_number": "IS 4031 (Part 4):1988",
+    "title": "Methods of Physical Tests for Hydraulic Cement \u2014 Determination of Consistency",
+    "category": "Construction Materials",
+    "scope": "Prescribes test methods for determining standard consistency of hydraulic cement paste.",
+    "latest_version": "1988",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1652:2021",
+      "IS 12269:2013"
+    ],
+    "normative_references": [],
+    "certification": [
+      "Test method standard - not for certification"
+    ],
+    "keywords": [
+      "cement testing",
+      "consistency test",
+      "hydraulic cement",
+      "lab test method"
+    ]
+  },
+  {
+    "is_number": "IS 15410:2003",
+    "title": "Solar Photovoltaic Modules \u2014 Design Qualification and Type Approval",
+    "category": "Renewable Energy",
+    "scope": "Specifies design qualification and type approval requirements for terrestrial photovoltaic modules made of crystalline silicon.",
+    "latest_version": "2003 (aligned with IEC 61215)",
+    "amendments": [],
+    "allied_standards": [
+      "IS 16170:2018",
+      "IS/IEC 61730"
+    ],
+    "normative_references": [
+      "IEC 61215"
+    ],
+    "certification": [
+      "BIS/MNRE Approved List of Models and Manufacturers (ALMM) required"
+    ],
+    "keywords": [
+      "solar panel",
+      "photovoltaic",
+      "solar module",
+      "renewable energy"
+    ]
+  },
+  {
+    "is_number": "IS 16170:2018",
+    "title": "Photovoltaic Devices \u2014 Measurement of Photovoltaic Current-Voltage Characteristics",
+    "category": "Renewable Energy",
+    "scope": "Specifies methods for measurement of current-voltage characteristics of photovoltaic devices.",
+    "latest_version": "2018",
+    "amendments": [],
+    "allied_standards": [
+      "IS 15410:2003"
+    ],
+    "normative_references": [
+      "IEC 60904-1"
+    ],
+    "certification": [
+      "Test method - supports ALMM certification"
+    ],
+    "keywords": [
+      "solar testing",
+      "photovoltaic measurement",
+      "IV characteristics",
+      "solar cell"
+    ]
+  },
+  {
+    "is_number": "IS 1239 (Part 1):2004",
+    "title": "Mild Steel Tubes \u2014 Specification",
+    "category": "Metals & Steel",
+    "scope": "Specifies requirements for mild steel tubes used for general engineering, structural, water and gas piping purposes.",
+    "latest_version": "Sixth Revision, 2004",
+    "amendments": [
+      "Amendment No. 3, 2011"
+    ],
+    "allied_standards": [
+      "IS 1239 (Part 2):2011",
+      "IS 3589:2001"
+    ],
+    "normative_references": [
+      "IS 1387:1993 General requirements for supply of metallurgical materials"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "steel tubes",
+      "MS pipe",
+      "piping",
+      "steel pipe"
+    ]
+  },
+  {
+    "is_number": "IS 4985:2021",
+    "title": "Unplasticized PVC Pipes for Potable Water Supply \u2014 Specification",
+    "category": "Plastics & Pipes",
+    "scope": "Specifies requirements for uPVC pipes used for potable cold water supply.",
+    "latest_version": "Fourth Revision, 2021",
+    "amendments": [],
+    "allied_standards": [
+      "IS 10500:2012",
+      "IS 7834 (Fittings series)"
+    ],
+    "normative_references": [
+      "IS 12235 Methods of test for uPVC pipes"
+    ],
+    "certification": [
+      "BIS Product Certification (ISI Mark) - Mandatory"
+    ],
+    "keywords": [
+      "PVC pipe",
+      "water pipe",
+      "plumbing",
+      "uPVC",
+      "potable water supply"
+    ]
+  },
+  {
+    "is_number": "IS 15778:2007",
+    "title": "Polyethylene (PE) Pipes for Water Supply \u2014 Specification",
+    "category": "Plastics & Pipes",
+    "scope": "Specifies requirements for high density polyethylene pipes used for cold water supply and irrigation.",
+    "latest_version": "2007",
+    "amendments": [],
+    "allied_standards": [
+      "IS 4985:2021",
+      "IS 4984:2016"
+    ],
+    "normative_references": [
+      "IS 12235"
+    ],
+    "certification": [
+      "BIS Product Certification - Mandatory"
+    ],
+    "keywords": [
+      "HDPE pipe",
+      "polyethylene pipe",
+      "water pipe",
+      "irrigation pipe"
+    ]
+  },
+  {
+    "is_number": "IS 1500:2005",
+    "title": "Method for Brinell Hardness Test for Metallic Materials",
+    "category": "Testing & Methods",
+    "scope": "Specifies method for determination of Brinell hardness of metallic materials.",
+    "latest_version": "Second Revision, 2005",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1586:2000",
+      "IS 1757:1988"
+    ],
+    "normative_references": [
+      "ISO 6506-1"
+    ],
+    "certification": [
+      "Test method standard"
+    ],
+    "keywords": [
+      "hardness test",
+      "metal testing",
+      "brinell",
+      "material testing"
+    ]
+  },
+  {
+    "is_number": "IS 1608 (Part 1):2005",
+    "title": "Metallic Materials \u2014 Tensile Testing at Ambient Temperature",
+    "category": "Testing & Methods",
+    "scope": "Specifies method for tensile testing of metallic materials at room temperature.",
+    "latest_version": "2005",
+    "amendments": [],
+    "allied_standards": [
+      "IS 1786:2008",
+      "IS 2062:2011"
+    ],
+    "normative_references": [
+      "ISO 6892-1"
+    ],
+    "certification": [
+      "Test method standard"
+    ],
+    "keywords": [
+      "tensile test",
+      "material testing",
+      "steel testing",
+      "mechanical testing"
+    ]
+  },
+  {
+    "is_number": "IS 875 (Part 3):2015",
+    "title": "Design Loads for Buildings and Structures \u2014 Wind Loads",
+    "category": "Construction Materials",
+    "scope": "Specifies wind load design criteria for buildings and structures.",
+    "latest_version": "Third Revision, 2015",
+    "amendments": [],
+    "allied_standards": [
+      "IS 456:2000",
+      "IS 800:2007",
+      "IS 875 (Part 1,2,4,5)"
+    ],
+    "normative_references": [],
+    "certification": [
+      "Not applicable - design code"
+    ],
+    "keywords": [
+      "wind load",
+      "structural design",
+      "building code",
+      "design loads"
+    ]
+  },
+  {
+    "is_number": "IS 14246:1995",
+    "title": "Hot-dip Zinc Coating on Structural Steel Sections \u2014 Specification",
+    "category": "Metals & Steel",
+    "scope": "Specifies requirements for hot-dip galvanized zinc coating on fabricated structural steel.",
+    "latest_version": "1995",
+    "amendments": [],
+    "allied_standards": [
+      "IS 2629:1985",
+      "IS 4759:1996"
+    ],
+    "normative_references": [
+      "IS 6745:1990 Methods for determination of mass of zinc coating"
+    ],
+    "certification": [
+      "Not mandatory BIS; recommended for corrosion protection quality"
+    ],
+    "keywords": [
+      "galvanizing",
+      "zinc coating",
+      "corrosion protection",
+      "steel coating"
+    ]
+  },
+  {
+    "is_number": "IS 3025 (Part 32):1988",
+    "title": "Methods of Sampling and Test for Water and Wastewater \u2014 Chloride",
+    "category": "Water & Environment",
+    "scope": "Specifies method for determination of chloride content in water and wastewater.",
+    "latest_version": "1988",
+    "amendments": [],
+    "allied_standards": [
+      "IS 10500:2012"
+    ],
+    "normative_references": [],
+    "certification": [
+      "Test method standard"
+    ],
+    "keywords": [
+      "water testing",
+      "chloride test",
+      "wastewater analysis",
+      "chemical analysis"
+    ]
+  },
+  {
+    "is_number": "IS 16046 (Part 1):2018",
+    "title": "Lithium-ion Cells and Batteries used in Portable Applications \u2014 Safety Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Safety requirements for secondary lithium-ion cells and batteries used in portable electronic devices such as mobile phones and laptops.",
+    "latest_version": "2018 (aligned with IEC 62133)",
+    "amendments": [],
+    "allied_standards": [
+      "IS 13252 (Part 1):2010",
+      "IS 16333 (Part 1)"
+    ],
+    "normative_references": [
+      "IEC 62133-2"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory"
+    ],
+    "keywords": [
+      "lithium battery",
+      "li-ion",
+      "battery safety",
+      "power bank",
+      "mobile battery"
+    ]
+  },
+  {
+    "is_number": "IS 16046 (Part 2):2018",
+    "title": "Lithium-ion Batteries for Electric Vehicles \u2014 Safety Requirements",
+    "category": "Automotive & EV",
+    "scope": "Safety and performance requirements for lithium-ion traction battery packs used in electric vehicles.",
+    "latest_version": "2018",
+    "amendments": [],
+    "allied_standards": [
+      "IS 16046 (Part 1):2018",
+      "AIS 038",
+      "AIS 048"
+    ],
+    "normative_references": [
+      "IEC 62660"
+    ],
+    "certification": [
+      "BIS/ARAI Certification - Mandatory for EV battery packs"
+    ],
+    "keywords": [
+      "EV battery",
+      "electric vehicle",
+      "traction battery",
+      "lithium ion"
+    ]
+  },
+  {
+    "is_number": "IS 302 (Part 2/Sec 25):2008",
+    "title": "Safety of Household Washing Machines \u2014 Particular Requirements",
+    "category": "Electrical & Electronics",
+    "scope": "Particular safety requirements applicable to household washing machines and clothes dryers.",
+    "latest_version": "2008",
+    "amendments": [],
+    "allied_standards": [
+      "IS 302 (Part 1):2008"
+    ],
+    "normative_references": [
+      "IEC 60335-2-7"
+    ],
+    "certification": [
+      "BIS Compulsory Registration Scheme (CRS) - Mandatory"
+    ],
+    "keywords": [
+      "washing machine",
+      "household appliance",
+      "laundry equipment"
+    ]
+  },
+  {
+    "is_number": "IS 4905:2015",
+    "title": "Random Sampling and Randomization Methods",
+    "category": "Quality & Statistics",
+    "scope": "Provides methods for random sampling and randomization used in quality control and statistical process control.",
+    "latest_version": "First Revision, 2015",
+    "amendments": [],
+    "allied_standards": [
+      "IS 2500 (Part 1):2000 Sampling inspection tables"
+    ],
+    "normative_references": [
+      "ISO 2859-1"
+    ],
+    "certification": [
+      "Methodology standard - not for certification"
+    ],
+    "keywords": [
+      "sampling",
+      "quality control",
+      "statistics",
+      "acceptance sampling"
+    ]
+  },
+  {
+    "is_number": "IS 15000 (Part 1):2018",
+    "title": "Hazard Analysis and Critical Control Point (HACCP) System \u2014 Requirements",
+    "category": "Food & Beverages",
+    "scope": "Specifies requirements for food safety management systems based on HACCP principles.",
+    "latest_version": "2018",
+    "amendments": [],
+    "allied_standards": [
+      "IS 22000:2005",
+      "FSSAI Food Safety and Standards Regulations"
+    ],
+    "normative_references": [
+      "Codex Alimentarius CAC/RCP 1"
+    ],
+    "certification": [
+      "FSSAI License + voluntary HACCP certification"
+    ],
+    "keywords": [
+      "food safety",
+      "HACCP",
+      "food processing",
+      "quality management"
+    ]
+  },
+  {
+    "is_number": "IS 1791:1985",
+    "title": "General Requirements for Batch Type Concrete Mixers",
+    "category": "Construction Machinery",
+    "scope": "Specifies general requirements for batch type concrete mixers used in construction.",
+    "latest_version": "Second Revision, 1985",
+    "amendments": [],
+    "allied_standards": [
+      "IS 4925:2004",
+      "IS 12269:2013"
+    ],
+    "normative_references": [],
+    "certification": [
+      "Not mandatory BIS certification"
+    ],
+    "keywords": [
+      "concrete mixer",
+      "construction equipment",
+      "batch mixer",
+      "construction machinery"
+    ]
+  }
+]

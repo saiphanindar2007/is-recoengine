@@ -1,0 +1,40 @@
+# --- Environment files: never commit real .env, only .env.example ---
+.env
+.env.*
+!.env.example
+!*/.env.example
+
+# --- Python / backend ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.db
+*.sqlite3
+backend/*.db
+backend/tests/*.db
+.venv/
+venv/
+htmlcov/
+.coverage
+
+# --- Node / frontend ---
+node_modules/
+dist/
+frontend/dist/
+.vite/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Editor / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Misc build/deploy artifacts ---
+*.log
+pytest-report.xml

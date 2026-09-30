@@ -1,0 +1,15 @@
+# OPTIONAL — enables real dense semantic embeddings (hybrid TF-IDF + transformer
+# similarity) instead of the TF-IDF-only fallback that ships by default.
+#
+# NOT included in requirements.txt because sentence-transformers pulls in
+# PyTorch (~600MB-1GB), which exceeds what most free-tier hosts (e.g. Render's
+# 512MB free web service) can build/run reliably. Install this file on a host
+# with more RAM (a paid tier, or any self-hosted / Docker environment with
+# >=2GB RAM) to activate it — no code changes needed, the engine auto-detects
+# and loads it lazily (see app/search/embedder.py: try_load_embedder()).
+#
+#   pip install -r requirements.txt -r requirements-embeddings.txt
+#   (EMBEDDING_MODE=hybrid is already the default — nothing else to configure)
+
+sentence-transformers==3.1.1
+torch==2.4.1

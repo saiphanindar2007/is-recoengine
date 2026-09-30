@@ -1,0 +1,3 @@
+# OPTIONAL — add when pointing DATABASE_URL at a managed PostgreSQL instance
+# instead of the default zero-config SQLite file. No code changes required.
+psycopg2-binary==2.9.9

@@ -1,0 +1,58 @@
+# Free-tier deployment blueprint for Render.com
+# Push this repo to GitHub, then on Render: New -> Blueprint -> select this repo.
+#
+# After the first deploy, open the is-recoengine-api service -> Environment
+# tab on Render to read the auto-generated ADMIN_BOOTSTRAP_PASSWORD value —
+# that (with ADMIN_BOOTSTRAP_EMAIL, default admin@isreco.gov.in) is the real
+# admin login for this deployment. It is never a known/default password, so
+# there is nothing further to rotate before going live.
+services:
+  - type: web
+    name: is-recoengine-api
+    runtime: python   # Render's `env:` key for service language is deprecated in favor of `runtime:`
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: python -m app.seed && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: JWT_SECRET_KEY
+        generateValue: true
+      - key: ADMIN_BOOTSTRAP_EMAIL
+        value: admin@isreco.gov.in
+      - key: ADMIN_BOOTSTRAP_PASSWORD
+        generateValue: true   # required in production — seed.py hard-fails without it, see seed.py docstring
+      - key: SEED_DEMO_ACCOUNTS
+        value: "false"   # a real deployment must not ship known officer@/auditor@ demo logins either —
+                          # only the freshly-generated ADMIN account exists until it creates others via Manage Users
+      - key: DATABASE_URL
+        value: sqlite:///./is_reco.db
+      - key: CORS_ALLOWED_ORIGINS
+        value: https://is-recoengine-frontend.onrender.com
+      - key: EMBEDDING_MODE
+        value: tfidf_only   # switch to "hybrid" only if also installing requirements-embeddings.txt
+      - key: RATE_LIMIT_ENABLED
+        value: "true"
+      - key: LOG_LEVEL
+        value: INFO
+
+  - type: web
+    name: is-recoengine-frontend
+    runtime: static   # Render's `env:` key for service language is deprecated in favor of `runtime:`
+    plan: free
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_BASE
+        value: https://is-recoengine-api.onrender.com
+    routes:
+      # This is a client-side-routed SPA (react-router): without this
+      # rewrite, a direct load or refresh of any non-root path (e.g.
+      # /standards/IS%201234:2024) 404s on Render's static host, because
+      # there is no matching file at that path — only index.html + the
+      # JS bundle, which react-router uses to resolve the route client-side.
+      - type: rewrite
+        source: /*
+        destination: /index.html
